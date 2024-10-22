@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Datos personales</string>
+    <string name="hint_nombre">Escribe tu nombre</string>
+    <string name="hint_apellidos">Escribe tus apellidos</string>
+    <string name="hint_edad">Escribe tu edad</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="tiene_hijos">¿Tiene hijos?</string>
+    <string name="notificacion">Aceptar</string>
+    <string name="reset">Restablecer</string>
+    <string name="estado_civil_titulo">Estado civil</string>
+    <string name="mayor_de_edad">mayor de edad</string>
+    <string name="menor_de_edad">menor de edad</string>
+    <string name="con_hijos">con hijos</string>
+    <string name="sin_hijos">sin hijos</string>
+    <string name="mensaje_faltan_campos">Faltan campos por completar.</string>
+
+    <!-- Array de estado civil -->
+    <string-array name="estados_civiles">
+        <item>Estado civil</item>
+        <item>Solter@</item>
+        <item>Casad@</item>
+        <item>Separad@</item>
+        <item>Viud@</item>
+        <item>Otr@</item>
+    </string-array>
+</resources>
